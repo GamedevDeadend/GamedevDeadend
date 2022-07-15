@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GamedevDeadend
 - 👀 I’m interested in XR,GameDevlopment etc.
-- 🌱 I’m currently learning Unreal Engine.
-- 💞️ I’m looking to collaborate on Video Game Projects.
+- 🌱 I’m currently learning Unreal Engine & Unity engine.
 - 📫 mail me at tanmay10087@gmail.com
 
 <!---
