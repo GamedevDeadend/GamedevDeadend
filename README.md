@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamedevDeadend
 - 👀 I’m interested in XR,GameDevlopment etc.
-- 🌱 I’m currently learning Unreal Engine & Unity engine.
+- 🌱 I’m Currently Working as Trainee Unreal Programmer in GodSpeedGames.
 - 📫 mail me at tanmay10087@gmail.com
 - https://www.linkedin.com/in/tanmay-agrawal-2954361a0/
 
