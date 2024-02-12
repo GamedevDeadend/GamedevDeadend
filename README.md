@@ -3,7 +3,7 @@
 - 🌱 I’m Currently Working as a game developer in Gamitronics.
 - 📫 mail me at tanmay10087@gmail.com
 - https://www.linkedin.com/in/tanmay-agrawal-2954361a0/
-- skilled in C++, Unreal Engine, git, unity engine, c#, DSA etc.
+- skilled in C++, Unreal Engine, Git, Unity Engine, C#, DSA etc.
 
 <!---
 GamedevDeadend/GamedevDeadend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
