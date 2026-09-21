@@ -11,7 +11,7 @@ The handle stays. The stack evolves.
 ### Browser Automation Agent
 A LangGraph agent that runs a proper perceive, act, verify loop.
 
-- Reads the accessibility tree to understand the page
+- Reads the accessibility tree snapshot in chunks to understand the page
 - Validates every action against real refs before clicking or typing
 - Routes conditionally based on what it sees
 - Checks its own goal completion using structured output plus a vision pass, instead of assuming it's done
