@@ -16,7 +16,7 @@ A LangGraph agent that runs a proper perceive, act, verify loop.
 - Routes conditionally based on what it sees
 - Checks its own goal completion using structured output plus a vision pass, instead of assuming it's done
 
-Debugged end to end on real sites, chasing down fabrication bugs, false completion signals, and role validation gaps along the way. One working piece of a larger multi-agent system I'm still building out.
+Debugging end to end on real sites, chasing down fabrication bugs, false completion signals, and role validation gaps along the way. One working piece of a larger multi-agent system I'm still building out.
 
 - **Repo:** [github.com/GamedevDeadend/Jarvis](https://github.com/GamedevDeadend/Jarvis)
 
